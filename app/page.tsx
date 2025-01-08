@@ -39,14 +39,14 @@ export default function Page() {
             alt="A screenshot of dashboard"
             width={1000}
             height={760}
-            className="hidden md:block bg-green-600"
+            className="hidden md:block "
           />
           <Image
             src={"/hero-desktop.png"}
             alt="A screenshot of dashboard"
             width={500}
             height={620}
-            className="block md:hidden bg-red-800"
+            className="block md:hidden"
           />
         </div>
       </div>
