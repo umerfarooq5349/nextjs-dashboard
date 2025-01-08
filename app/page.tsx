@@ -45,7 +45,7 @@ export default function Page() {
             src={"/hero-desktop.png"}
             alt="A screenshot of dashboard"
             width={500}
-            height={630}
+            height={620}
             className="block md:hidden"
           />
         </div>
